@@ -1,6 +1,6 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	<span class="text-transform: capitalize;">CHOU TZU-YING</span>
+
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -12,6 +12,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	text-transform: lowercase;
 }
 
+.mb-0 {
+	text-transform: capitalize;
+}
 
 
 
