@@ -19,18 +19,18 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .bg-primary {
-    background-color: #87dbf0!important;
+    background-color: #49ade3!important;
     background-image: url("https://sleepsheepp.github.io//assets/img/food.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 
 }
 
 .text-primary {
-	color: #87dbf0!important;
+	color: #49ade3!important;
 }
 
 a {
-	color: #87dbf0;
+	color: #49ade3;
 }
 
 
