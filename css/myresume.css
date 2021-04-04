@@ -34,7 +34,7 @@ a {
 }
 
 
-.subheading mb-3 {
+.subheading.mb-3 {
 	text-transform: capitalize;
 }
 
