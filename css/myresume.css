@@ -38,9 +38,8 @@ a {
 	text-transform: capitalize;
 }
 
-#education>p {
-	line-height: 50%;
+.flex-grow-1>p {
+    line-height: 50%;
 }
-
 
 
