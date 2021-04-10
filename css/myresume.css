@@ -38,5 +38,9 @@ a {
 	text-transform: capitalize;
 }
 
+#education>p {
+	line-height: 55px;
+}
+
 
 
