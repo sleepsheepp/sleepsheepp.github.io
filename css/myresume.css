@@ -43,6 +43,7 @@ h3,.h3 {
 
 #accordion {
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
 }
 
