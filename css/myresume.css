@@ -41,3 +41,8 @@ h3,.h3 {
     text-transform: capitalize;
 }
 
+#accordion {
+	display: flex;
+	flex-wrap: wrap;
+}
+
